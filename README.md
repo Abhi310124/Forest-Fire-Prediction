@@ -94,7 +94,8 @@ To run this project locally, follow these steps:
 ![download (4)](https://github.com/user-attachments/assets/fff3aa7b-f9c5-4bcc-b730-f1bd7ab44b08)
 
 
-# **Confusion Matrix**
+#**Confusion Matrix**
+
 ![download (5)](https://github.com/user-attachments/assets/48036b74-d9ab-4961-8c27-0c0372166d5a)
 
 
